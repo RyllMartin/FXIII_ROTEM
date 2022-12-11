@@ -42,9 +42,14 @@ The code is a 3-step process:
 3. Creating the visualization from the final dataframe
 
 Dependencies:
+
 import numpy as np
+
 import pandas as pd
+
 import seaborn as sns
+
 import scipy.stats as stats
+
 import matplotlib.pyplot as plt
 
