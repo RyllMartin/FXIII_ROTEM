@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code/visualiziation, please cite it as below."
+title: ROTEM Dot-Heatmap
+abstract: Code for the heatmap-like visualizations (including statistics) first used describing the ROTEM changes after FXIII administration after major cardiac surgery
+authors:
+  - family-names: Ryll
+    given-names: Martin
+    orcid: https://orcid.org/0000-0003-4925-7248
+title: "ROTEM Dot-Heatmap"
+version: 2.0.0
+date-released: 2022-12-11
+repository-code: "https://github.com/RyllMartin/FXIII_ROTEM"
