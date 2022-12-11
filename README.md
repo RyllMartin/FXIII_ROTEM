@@ -1,6 +1,6 @@
 # FXIII_ROTEM
 
-USE/RE-USE: Please cites this code/repository accordingly!
+USE/RE-USE: If you would like to use this visualization, please cite this code/repository accordingly, thank you!
 
 Code for the heatmap-like visualizations (including statistics) first used describing/comparing the ROTEM changes after FXIII supplementation after major cardiac surgery
 
