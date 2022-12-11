@@ -403,7 +403,7 @@ def ROTEM_Heatmap(df_data, unit_clm, rotem_clm, diff_clm, diff_g0, diff_g1, para
     g = sns.relplot(
         data=df_heatmap,
         x="Test", y="ROTEM-Art", hue="p-value <", size="Change in %",
-        palette=palette_color,
+        palette=palette_color, hue_order=["0.05", "0.01", "0.001"],
         edgecolor=".7",
         sizes=(1, 500), size_norm=(0, size_points_max), height=2.25, aspect=5.2
     )
